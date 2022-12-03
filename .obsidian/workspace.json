@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picogym_writeup/CTF初探.md",
+                "file": "picogym_writeup/Most cookie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picogym_writeup/CTF初探.md",
+                "file": "picogym_writeup/Most cookie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picogym_writeup/CTF初探.md"
+                "file": "picogym_writeup/Most cookie.md"
               }
             }
           }
@@ -149,7 +149,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f47e7343d1ebbbb4",
+  "active": "9a7ae131b0eb7991",
   "lastOpenFiles": [
     "picogym_writeup/CTF初探.md"
   ]
