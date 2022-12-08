@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picogym_writeup/Most cookie.md",
+                "file": "picogym_writeup/Some Assembly Required 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picogym_writeup/Most cookie.md",
+                "file": "picogym_writeup/Some Assembly Required 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picogym_writeup/Most cookie.md",
+                "file": "picogym_writeup/Some Assembly Required 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picogym_writeup/Most cookie.md"
+                "file": "picogym_writeup/Some Assembly Required 2.md"
               }
             }
           }
@@ -152,7 +152,10 @@
   "active": "9a7ae131b0eb7991",
   "lastOpenFiles": [
     "picogym_writeup/Some assembly required 1.md",
+    "picogym_writeup/Scavenger Hunt.md",
     "picogym_writeup/Most cookie.md",
+    "picogym_writeup/More cookies.md",
+    "picogym_writeup/It's my birthday.md",
     "picogym_writeup/CTF初探.md"
   ]
 }
